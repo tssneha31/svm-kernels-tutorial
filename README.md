@@ -13,14 +13,11 @@ This repository contains the code and tutorial for the assignment:
 
 ## Repository structure
 
-- `notebooks/svm_kernels_tutorial.ipynb`  
+- `svm_kernels_tutorial.ipynb`  
   Main Jupyter notebook that generates all experiments and figures.
 
-- `tutorial/svm_kernels_tutorial.pdf`  
+- `svm_kernels_tutorial.pdf`  
   PDF tutorial submitted for the assignment.
-
-- `figures/`  
-  Exported plots used in the tutorial (decision boundaries for each kernel–dataset combination).
 
 - `requirements.txt`  
   Python dependencies needed to run the notebook.
